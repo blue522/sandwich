@@ -6,7 +6,7 @@ http://cheapbotsdonequick.com/source/sammich_bot
 	"origin": ["#num# of #meats# #extrameat# with #toppings#, #toppings#, #sauces#, #sauces# and #cheeses# on #breads#. \\#SAMMICH"],
 	
 	"num" : ["One patty","One patty", "Two patties"],
-	"extrameat" : ["and #meats#"],
+	"extrameat" : ["and #meats#","",""],
 	
 "meats" : [
 "abalone",
