@@ -1,8 +1,9 @@
 # sandwich
 http://cheapbotsdonequick.com/source/sammich_bot
 
+
 {
-	"origin": ["#num# of #meats# #extrameat# with #toppings#, #toppings#, #sauces#, #sauces# and #cheeses#."],
+	"origin": ["#num# of #meats# #extrameat# with #toppings#, #toppings#, #sauces#, #sauces# and #cheeses# on #breads#. #SAMMICH"],
 	
 	"num" : ["One patty","One patty", "Two patties"],
 	"extrameat" : ["and #meats#"],
@@ -186,5 +187,40 @@ http://cheapbotsdonequick.com/source/sammich_bot
 "parmesan",
 "pepper jack",
 "parmesan",
-"Swiss"]
+"Swiss"],
+
+"breads" :
+["bagel",
+"baguette",
+"biscuit",
+"blini",
+"bread",
+"breadcrumbs",
+"brioche",
+"bun",
+"corn bread",
+"corn pone",
+"croissant",
+"crouton",
+"English muffin",
+"French bread",
+"loaf",
+"matzo",
+"muffin",
+"naan",
+"paratha",
+"pita bread",
+"popover",
+"poppadom",
+"pumpernickel",
+"roll",
+"roti",
+"rye",
+"rye bread",
+"saltine",
+"sliced bread",
+"sourdough",
+"tortilla",
+"zwiebac"
+]
 }
